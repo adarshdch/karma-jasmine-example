@@ -1,5 +1,6 @@
-# karma-jasmine-example
-Example Usage of Karma with Jasmine
+# karma-jasmine-phantomjs-example
+
+Example Usage of Karma with Jasmine, PhantomJs
 
 *Run below command from the project directory to run the tests*
 
@@ -8,4 +9,4 @@ Example Usage of Karma with Jasmine
 
 ```npm test```
 
-#### Enjoy playing with jasmine and karma by addming or modifying the code
+#### Enjoy playing with jasmine and karma by adding or modifying the code
