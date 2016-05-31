@@ -1,0 +1,36 @@
+{
+  "name": "karma-jasmine-example",
+  "version": "1.0.0",
+  "description": "Example Usage of Karma with Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshdch/karma-jasmine-example.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "example"
+  ],
+  "author": "Adarsh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarshdch/karma-jasmine-example/issues"
+  },
+  "homepage": "https://github.com/adarshdch/karma-jasmine-example#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "phantomjs": "^2.1.7",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
